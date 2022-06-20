@@ -1,5 +1,28 @@
 [
     {
+        "projectName": "Terrace",
+        "description": "A custom-built content management system based on git. (It powers this site!)",
+        "repoUrl": "https://github.com/encodeous/Terrace",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "javascript",
+            "svelte",
+            "aspnet-core"
+        ]
+    },
+    {
+        "projectName": "Horizon",
+        "description": "High performance TCP Proxy and Port Tunneling over WebSockets.",
+        "repoUrl": "https://github.com/encodeous/horizon",
+        "imageUrl": "https://raw.githubusercontent.com/encodeous/horizon/master/banner.png",
+        "tags": [
+            "c-sharp",
+            "networking",
+            "websockets"
+        ]
+    },
+    {
         "projectName": "Musii",
         "description": "Musii is an alternative music bot to large public bots like Rythm or Groovy. It is a private, customizable bot that suits your needs.",
         "repoUrl": "https://github.com/encodeous/musii",
@@ -17,6 +40,99 @@
         "tags": [
             "c-sharp",
             "discord"
+        ]
+    },
+    {
+        "projectName": "OfflineJudge",
+        "description": "Offline Judge is an advanced and configurable fast/slow grader that runs on your own computer!",
+        "repoUrl": "https://github.com/encodeous/offlinejudge",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "competitive-programming"
+        ]
+    },
+    {
+        "projectName": "JourneyRoute",
+        "description": "JourneyRoute is a path-finding mod for Minecraft. With JourneyRoute, you will never get lost down a mineshaft! As you travel in a world, it will build a network of all the places you have been, and is able to generate routes between locations.",
+        "repoUrl": "https://github.com/encodeous/journeyroute",
+        "imageUrl": "",
+        "tags": [
+            "java",
+            "fabric",
+            "minecraft"
+        ]
+    },
+    {
+        "projectName": "MissileWarsX",
+        "description": "MissileWarsX (or MwX) is an open source implementation of the legendary MissileWars mini-game created by SethBling and Cubehamster. This plugin offers a refined experience that is true to the original game. MwX enables other tweaks & performance options that make the game more enjoyable.",
+        "repoUrl": "https://github.com/encodeous/MissileWarsX",
+        "imageUrl": "",
+        "tags": [
+            "java",
+            "spigot",
+            "minecraft"
+        ]
+    },
+    {
+        "projectName": "Clockwork",
+        "description": "Clockwork is an easy to use Task Scheduler library that reduces a lot of boilerplate code.",
+        "repoUrl": "https://github.com/encodeous/clockwork",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "library"
+        ]
+    },
+    {
+        "projectName": "GitRCFS",
+        "description": "GitRCFS offers a lightweight option to synchronize an application's configuration & data files with a remote git repository. This library provides a simple api to use a git repository to access readonly configuration files.",
+        "repoUrl": "https://github.com/encodeous/gitrcfs",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "library"
+        ]
+    },
+    {
+        "projectName": "WStream",
+        "description": "WStream offers a simple and high-performance WebSocket stream built on top of Kestrel. It targets .NET Standard 2.0, as well as .NET Core 3.1 and above.",
+        "repoUrl": "https://github.com/encodeous/wstream",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "library"
+        ]
+    },
+    {
+        "projectName": "Tetrix",
+        "description": "Tetrix is a small school project that implements a simplified version of Tetris on the Arduino Platform, using an LED Matrix.",
+        "repoUrl": "https://github.com/encodeous/Tetrix",
+        "imageUrl": "",
+        "tags": [
+            "c-plus-plus",
+            "tetris",
+            "game"
+        ]
+    },
+    {
+        "projectName": "DirtyProxy",
+        "description": "A quick and easy proxy scraper!",
+        "repoUrl": "https://github.com/encodeous/dirtyproxy",
+        "imageUrl": "",
+        "tags": [
+            "c-sharp",
+            "proxy"
+        ]
+    },
+    {
+        "projectName": "RoboMatch",
+        "description": "A Memory Game built on the Arduino Platform. Project made for TEJ4M.",
+        "repoUrl": "https://github.com/encodeous/robomatch",
+        "imageUrl": "https://github.com/assets/47889571/391cb0a3-d17b-4996-81e2-7f85a5beb02e",
+        "tags": [
+            "c-plus-plus",
+            "memory-game"
         ]
     }
 ]
