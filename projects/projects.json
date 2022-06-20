@@ -1,8 +1,8 @@
 [
     {
         "projectName": "Musii",
-        "description": "",
-        "repoUrl": "",
+        "description": "Musii is an alternative music bot to large public bots like Rythm or Groovy. It is a private, customizable bot that suits your needs.",
+        "repoUrl": "https://github.com/encodeous/musii",
         "imageUrl": ""
     }
 ]
